@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730719150 source:/home/vito-esposito/C_Programming_Ubuntu/Esecizi/FunzioniMatematiche/lib.c
+
+1730720746 source:/home/vito-esposito/C_Programming_Ubuntu/Esecizi/FunzioniMatematiche/main.c
+	<stdio.h>
+	<stdlib.h>
+
