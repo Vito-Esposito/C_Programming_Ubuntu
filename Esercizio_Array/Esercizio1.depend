@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730758043 source:/home/vito-esposito/C_Programming_Ubuntu/Esercizio_Array/lib.c
+
+1730758043 source:/home/vito-esposito/C_Programming_Ubuntu/Esercizio_Array/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1730758043 /home/vito-esposito/C_Programming_Ubuntu/Esercizio_Array/lib.h
+
