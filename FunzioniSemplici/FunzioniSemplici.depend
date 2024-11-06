@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730928999 source:/home/vito-esposito/C_Programming_Ubuntu/FunzioniSemplici/main.c
+	<stdio.h>
+	<stdlib.h>
+

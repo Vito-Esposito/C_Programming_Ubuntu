@@ -174,7 +174,9 @@ float trova_massimo_ninput(int n){
 		
 		if(numero_letto > massimo)
 			massimo= numero_letto;
-	}	
+	}
+	
+	return massimo;
 }
 
 float trova_minimo_ninput(int n){
