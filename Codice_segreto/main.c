@@ -18,7 +18,7 @@ int main()
             printf("\nRiprova.\n");
 
         i += 1;
-    }while( cod != cod_segr);
+    }while( cod != cod_segr && i<=10);
 
     i=1;
 
@@ -36,12 +36,13 @@ int main()
         }
         else if(carattere == cod_segr_c){
                 printf("\nCodice segreto indovinato.\n");
+                printf("Fase 2 completata!\n");
                 }
         else{
             printf("\nRiprova.\n");
             i += 1;
         }
-            }while( carattere != cod_segr_c);
+            }while( carattere != cod_segr_c && i<=10);
     }
 
     return 0;
