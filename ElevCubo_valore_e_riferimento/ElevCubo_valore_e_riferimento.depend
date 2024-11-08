@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730973168 source:/home/vito-esposito/C_Programming_Ubuntu/ElevCubo_valore_e_riferimento/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731050306 source:/home/vito-esposito/C_Programming_Ubuntu/Quanti_Neg_Pos/main.c
+	<stdio.h>
+	<stdlib.h>
+

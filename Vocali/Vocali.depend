@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731051779 source:/home/vito-esposito/C_Programming_Ubuntu/Vocali/main.c
+	<stdio.h>
+	<stdlib.h>
+

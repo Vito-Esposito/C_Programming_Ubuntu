@@ -38,7 +38,7 @@ int main()
     if(key == 1)
         printf("Pari.\n");
     else if(key == 0)
-        printf("Dispari\.n");
+        printf("Dispari.\n");
 
     return 0;
 }
