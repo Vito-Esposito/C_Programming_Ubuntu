@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731321648 source:/home/vito-esposito/C_Programming_Ubuntu/Es_1_Array/main.c
+	<stdio.h>
+	<stdlib.h>
+
